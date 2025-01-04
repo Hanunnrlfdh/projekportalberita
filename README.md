@@ -1,2 +1,4 @@
 # projekportalberita
-Ini adalah projek pertama portal berita
+Projek yang saya lakukan adalah membuat portal berita
+Langkah yang pertama mengaktifkan dulu xampp
+Lalu
